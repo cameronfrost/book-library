@@ -71,8 +71,6 @@ function (e) {
   ui.showAlert('Please fill in all fields', 'error')
   } else {
 
-  
-
   // Add Book To List
   ui.addBookToList(book);
 
